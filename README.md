@@ -1,2 +1,3 @@
 # WEB-DEVELOPMENT-LEARNING 
-The Front End development assignments done during 30 days Web Development Workshops.
+The assignments done during 30days Web Development Workshops using HTML and CSS.
+
